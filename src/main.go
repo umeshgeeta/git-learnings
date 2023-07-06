@@ -8,5 +8,6 @@ package main
 import "fmt"
 
 func main() {
+	fmt.Println("prior line in master branch")
 	fmt.Println("test git learning - check-in c1 in master branch")
 }
